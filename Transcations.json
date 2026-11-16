@@ -1,0 +1,19 @@
+{
+    "transactions": [
+        {
+            "id": 101,
+            "customer": "Ravi",
+            "amount": 1200
+        },
+        {
+            "id": 102,
+            "customer": "Priya",
+            "amount": 500
+        },
+        {
+            "id": 103,
+            "customer": "Arjun",
+            "amount": 750
+        }
+    ]
+}
